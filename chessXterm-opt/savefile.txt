@@ -1,0 +1,33 @@
+-1
+B Ra8
+B Bc8 nm
+B Qd8 nm
+B Ke8 nm
+B Bf8 nm
+B Ng8 nm
+B Rh8 nm
+B Pa7 nm
+B Pb7 nm
+B Pc7 nm
+B Pf7 nm
+B Pg7 nm
+B Ph7 nm
+B Nc6
+B Pd6
+W Bb5
+B Pe5
+W Pe4
+W Nf3
+W Pa2 nm
+W Pb2 nm
+W Pc2 nm
+W Pd2 nm
+W Pf2 nm
+W Pg2 nm
+W Ph2 nm
+W Ra1 nm
+W Nb1 nm
+W Bc1 nm
+W Qd1 nm
+W Rf1 nm
+W Kg1 nm
